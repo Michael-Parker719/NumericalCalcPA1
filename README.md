@@ -1,4 +1,5 @@
-
+## Clone the Repository
+git clone https://github.com/Michael-Parker719/NumericalCalcPA1
 ## Assuming python 3 is already installed, Install dependencies
 pip install -r requirements.txt
 
